@@ -2,7 +2,9 @@ package com.wakaleo.gameoflife.domain;
 
 import static com.wakaleo.gameoflife.domain.Cell.DEAD_CELL;
 import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
-
+/**
+ * Una red.
+ */
 public class Grid {
 
     private static final int DEFAULT_ROW_COUNT = 3;
